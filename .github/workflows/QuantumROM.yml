@@ -21,7 +21,7 @@ on:
       TARGET_DEVICE_CSC_OR_DOWNLOAD_LINK:
         description: "Input target device CSC code or direct download link."
         required: true
-        default: "INS"
+        default: "https://drive.usercontent.google.com/download?id=1Bk5C3XkzlR_6tbrLYXu-R9yh1jf-Ye4v&export=download&authuser=1&confirm=t&uuid=c09e1ddd-5fc9-4a29-a07d-3bf53aa6f899&at=AMrWOn3wLbWNqI2MXeeZvD9XJzRA:1790151748144"
 
       TARGET_FW_VERSION:
         description: "Specific Samsung firmware version (PDA/CSC/MODEM) OR (AP/CSC/CP)"
