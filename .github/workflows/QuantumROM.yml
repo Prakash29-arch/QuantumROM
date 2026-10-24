@@ -40,7 +40,7 @@ on:
       DEBLOAT_ROM:
         description: "Debloat downloaded rom (True/False)"
         required: true
-        default: "False"
+        default: "true"
 
       ADD_CHINA_SMART_MANAGER:
         description: "Add china smart manager (True/False)"
