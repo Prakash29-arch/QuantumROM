@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       STOCK_DEVICE:
-        description: "Your own device model or None"
+        description: "Enter Your device model or None"
         required: true
         default: "SM-A135F"
 
